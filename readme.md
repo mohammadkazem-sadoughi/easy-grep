@@ -7,7 +7,7 @@ INSTALLATION
 -----------
 
 To install using Homebrew:
-brew tap yourusername/easy-grep
+brew tap mohammadkazem-sadoughi/easy-grep
 brew install easy-grep
 
 USAGE
